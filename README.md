@@ -1,3 +1,3 @@
-## AD Exercises for CWI Autum school
+## AD Exercises for CWI Autumn school
 
 pre-requsuites: JAX, numpy, matplotlib, torch
